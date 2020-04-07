@@ -12,7 +12,9 @@
 
 [voir l'image](https://github.com/LePhareNumerique/solimasque/blob/master/solimasque.png?raw=true)
 
-# Objectifs du projet, un site web pour:
+# Objectifs du projet 
+
+## Un site web pour
 
 1. Identifier et mettre en relation les acteurs de la fabrication
 2. Faciliter la distribution
