@@ -1,4 +1,4 @@
-# Suite aux annonces du port obligatoir de masques pour nos déplacement, le manque de masques va vite se faire sentir.
+# Suite aux annonces du port obligatoir de masques pour nos déplacements, le manque de masques va vite se faire sentir.
 
 ## Vous vous sentez l'ame de grand contributeurs, en ces temps incertains c'est le moment de répondre a l'appel
 ## Appel à contribution : Effort de solidarité nationale pour la fabrication de masques alternatifs
@@ -17,7 +17,7 @@
 
 _pour cela nous souhaitons organiser un marathon créatif pendant tout un weekend_
 
-*Alors n'hesitez pas a nous rejoindre tout les jours de 14h a 15h en visio conférence, vous etes bienvenu.e*
+*Alors n'hesitez pas a nous rejoindre tout les jours de 14h a 15h en visio conférence pour préparer l'événement, vous etes bienvenu.e*
 
 
 [La visio](https://meet.jit.si/solimasque)
