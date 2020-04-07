@@ -15,9 +15,9 @@
 4. Canaliser la demande
 5. Valoriser les contributeurs
 
-_pour cela nous souhaitons organiser un marathon créatif pendant tout un weekend_
+_Pour cela nous souhaitons organiser un marathon créatif pendant tout un weekend_
 
-*Alors n'hesitez pas a nous rejoindre tout les jours de 14h a 15h en visio conférence pour préparer l'événement, vous etes bienvenu.e*
+*Alors n'hésitez pas à nous rejoindre tous les jours de 14h à 15h en visio-conférence pour préparer l'événement, vous êtes bienvenu.e*
 
 
 [La visio](https://meet.jit.si/solimasque)
