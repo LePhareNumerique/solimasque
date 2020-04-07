@@ -1,19 +1,27 @@
 # Suite aux annonces du port obligatoire de masques pour nos déplacements, le manque de masques va vite se faire sentir.
 
-## Vous vous sentez l'ame de grand contributeurs, en ces temps incertains c'est le moment de répondre a l'appel
-## Appel à contribution : Effort de solidarité nationale pour la fabrication de masques alternatifs
+![alt text][logo2]
 
-**Nous voulons créer un site web facilitant la créations et la distributions de masques en tissus**
+[logo2]: https://cdn.discordapp.com/attachments/411520461709508628/697161110352298174/masquetissus.png "masque"
+
+## Concevons ensemble un site web facilitant la créations et la distributions de masques en tissus
+## Vous vous sentez l'ame de grands contributeurs, en ces temps incertains c'est le moment de répondre a l'appel
 
 ![alt text][logo]
 
 [logo]: https://github.com/LePhareNumerique/solimasque/blob/master/solimasque.png?raw=true "Mind Map"
+
+[voir l'image](https://github.com/LePhareNumerique/solimasque/blob/master/solimasque.png?raw=true)
+
+# Objectifs du projet:
 
 1. Identifier et mettre en relation les acteurs de la fabrication
 2. Faciliter la distribution
 3. Centraliser l'information et les bonnes pratiques
 4. Canaliser la demande
 5. Valoriser les contributeurs
+
+
 
 _Pour cela nous souhaitons organiser un marathon créatif pendant tout un weekend_
 
