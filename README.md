@@ -7,7 +7,7 @@
 
 ![alt text][logo]
 
-[logo]: https://gitlab.com/JeanSairien/solimasque/-/raw/master/solimasque.png "Mind Map"
+[logo]: https://github.com/LePhareNumerique/solimasque/blob/master/solimasque.png?raw=true "Mind Map"
 
 1. Identifier et mettre en relation les acteurs de la fabrication
 2. Faciliter la distribution
