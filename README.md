@@ -4,7 +4,6 @@
 
 [logo2]: https://cdn.discordapp.com/attachments/411520461709508628/697164621378748576/masquetissusXL.png "masque"
 
-## Concevons ensemble un site web facilitant la créations et la distributions de masques en tissus
 ## Vous vous sentez l'ame de grands contributeurs, en ces temps incertains c'est le moment de répondre a l'appel
 
 ![alt text][logo]
