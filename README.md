@@ -1,4 +1,4 @@
-# Suite aux annonces du port obligatoir de masques pour nos déplacements, le manque de masques va vite se faire sentir.
+# Suite aux annonces du port obligatoire de masques pour nos déplacements, le manque de masques va vite se faire sentir.
 
 ## Vous vous sentez l'ame de grand contributeurs, en ces temps incertains c'est le moment de répondre a l'appel
 ## Appel à contribution : Effort de solidarité nationale pour la fabrication de masques alternatifs
