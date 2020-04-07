@@ -7,7 +7,7 @@
 
 ![alt text][logo]
 
-[logo]: https://gitlab.com/JeanSairien/solimasque/-/blob/master/solimasque.png "Mind Map"
+[logo]: https://gitlab.com/JeanSairien/solimasque/-/raw/master/solimasque.png "Mind Map"
 
 1. Identifier et mettre en relation les acteurs de la fabrication
 2. Faciliter la distribution
@@ -17,7 +17,7 @@
 
 _pour cela nous souhaitons organiser un marathon créatif pendant tout un weekend_
 
-*Alors n'hesitez pas a nous rejoindre tout les jours  de 14h a 15h en visio conférence, vous etes bienvenu.e*
+*Alors n'hesitez pas a nous rejoindre tout les jours de 14h a 15h en visio conférence, vous etes bienvenu.e*
 
 
 [La visio](https://meet.jit.si/solimasque)
