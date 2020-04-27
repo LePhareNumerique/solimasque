@@ -1,0 +1,109 @@
+/*
+bleu clair #26F7FD
+bleu fonce #1CD3D8
+rose #FF3EAC
+orange #FFA455
+gris #B8B8B8
+*/
+/*---------------------------------------------------style text*/
+.f-regular{
+	font-family: brandon-grotesque,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.f-regular-i{
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+.f-bold{
+	font-family: brandon-grotesque,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+.f-bold-i{
+	font-family: brandon-grotesque,sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+.f-gris{
+	color: #B8B8B8;
+}
+/*--------------------------------------------------taille des div*/
+.h-all{
+	min-height: 100vh; 
+}
+/*-------------------------------------------------- custom lien*/
+.lien{
+	cursor: pointer;
+}
+.lien:hover{
+	color: #1CD3D8;
+}
+/*--------------------------------------------------------------------style bg----------*/
+.bg-grad {
+	background: linear-gradient(50deg, #ff3eac, #ffa455, #ff3eac);
+	background-size: 600% 600%;
+	animation: animBg 30s ease infinite;
+	z-index: -1000 !important;
+}
+@keyframes animBg {
+    0%{background-position:96% 0%}
+    50%{background-position:5% 100%}
+    100%{background-position:96% 0%}
+}
+.bg-bleu {
+	background-color: #1CD3D8;
+}
+/*--------------------------------------------------------------------anim welcome----------*/
+.anim-monter {
+  animation-duration: 8s;
+  animation-name: monter;
+  animation-delay: -4s;
+}
+@keyframes monter {
+  from {margin-top: 100%;}
+  to {margin-bottom: auto;}
+}
+.anim-opacit {
+  animation-duration: 20s;
+  animation-name: opacit;
+  animation-delay: -10s;
+}
+@keyframes opacit {
+	0%{opacity:0%;}
+    50%{opacity:0%;}
+    75%{opacity:0%;}
+    100%{opacity: 100%;}
+}
+/*-----------------------------------------custom landing page ---------------------*/
+#titre-solimasque{
+	max-width: 500px; 
+	min-width: 50px;
+}
+.titre{
+	font-size: 2em;
+}
+.deco{
+	border-top: solid 5px; 
+	border-bottom: solid 5px;
+	border-color: #1CD3D8; 
+}
+/*-----------------------------------------style titre section ---------------------*/
+.deco-titre{ 
+	border-top: solid 5px;
+	border-color: #1CD3D8; 
+}
+
+a{
+	color: white; 
+	text-decoration: none; 
+}
+
+a:hover{
+	color: #1CD3D8;
+}
+
+.post-meta{
+	color: grey;
+}
